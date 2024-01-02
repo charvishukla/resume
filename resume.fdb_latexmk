@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1704182280 "/Users/charvieshukla/Documents/GitHub/resume/resume.tex" "resume.pdf" "resume" 1704182281 0
-  "/Users/charvieshukla/Documents/GitHub/resume/resume.tex" 1704182280 9851 96e6b9a25607d927501023358d7f89d3 ""
+["pdflatex"] 1704188756 "/Users/charvieshukla/Documents/GitHub/resume/resume.tex" "resume.pdf" "resume" 1704188757 0
+  "/Users/charvieshukla/Documents/GitHub/resume/resume.tex" 1704188756 10105 f1c1d1ed53cb4bfb44bbce2df9303f51 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -104,9 +104,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1704181723 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1704181654 7883457 3b2911a8e370adb6f5c172dd112a1204 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "resume.aux" 1704182280 1306 c625bb37f990d2e1debec250b5c75ed5 "pdflatex"
-  "resume.out" 1704182280 720 234422543fc3fc56bbb8ae2e0ff03def "pdflatex"
-  "resume.tex" 1704182280 9851 96e6b9a25607d927501023358d7f89d3 ""
+  "resume.aux" 1704188757 1306 c625bb37f990d2e1debec250b5c75ed5 "pdflatex"
+  "resume.out" 1704188757 720 234422543fc3fc56bbb8ae2e0ff03def "pdflatex"
+  "resume.tex" 1704188756 10105 f1c1d1ed53cb4bfb44bbce2df9303f51 ""
   (generated)
   "resume.aux"
   "resume.log"

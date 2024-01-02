@@ -1,12 +1,4 @@
-%-------------------------
-% Resume in Latex
-% Author : Jake Gutierrez
-% Based off of: https://github.com/sb2nov/resume
-% License : MIT
-%------------------------
-
 \documentclass[letterpaper,11pt]{article}
-
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
 \usepackage{titlesec}
@@ -74,7 +66,7 @@
 
 \newcommand{\classesList}[4]{
     \item\small{
-        {#1 #2 #3 #4 \vspace{-2pt}}
+        {#1 #2 #3 #4  \vspace{-2pt}}
   }
 }
 
@@ -83,6 +75,15 @@
     \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{#1} & \textbf{\small #2} \\
       \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubheadings}[5]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+      \textit{\small#5} \\
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -125,8 +126,8 @@
 \begin{center}
     {\huge \textbf{Charvi Shukla}} \\ \vspace{1pt}
     \small \raisebox{-0.1\height}\faPhone\ 858-319-5868 ~ \href{mailto:cshukla@ucsd.edu}{\raisebox{-0.2\height}\faEnvelope\  \underline{cshukla@ucsd.edu}} ~ 
-    \href{https://linkedin.com/in//}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/username}}  ~
-    \href{https://github.com/}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/charvishukla}}
+    \href{https://www.linkedin.com/in/charvi-shukla/}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/charvi-shukla}}  ~
+    \href{https://github.com/charvishukla}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/charvishukla}}
     \vspace{-8pt}
 \end{center}
 
@@ -134,9 +135,10 @@
 %-----------EDUCATION-----------
 \section{Education}
   \resumeSubHeadingListStart
-    \resumeSubheading
-      {State University}{Sep. 2017 -- May 2021}
-      {Bachelor of Science in Computer Science}{City, State}
+    \resumeSubheadings
+      {University of California, San Diego}{Sep. 2021 -- May 2025}
+      {BS. Mathematics-Computer Science}{La Jolla, CA}
+      {BS. Cognitive Science with a Specialization in Machine Learning and Neural Computation}
   \resumeSubHeadingListEnd
 
 %------RELEVANT COURSEWORK-------
